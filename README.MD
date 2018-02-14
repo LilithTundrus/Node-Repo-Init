@@ -2,7 +2,7 @@
 
 ## Usage
 
-Run this shell script like any other shell script.
+Run this shell script like any other script.
 
 First, modify the script to be executable: 
 
@@ -11,3 +11,19 @@ chmod +x initrepo.sh
 ```
 
 Then, run the script:
+
+```
+./initrepo.sh
+```
+
+Follow the steps for NPM init after all files have been created and you're ready
+to go!
+
+
+## Contributing
+
+If you have suggestions or improvements, feel free to open a pull request and
+get the conversation started!
+
+
+
