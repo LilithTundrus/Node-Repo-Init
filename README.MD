@@ -23,6 +23,10 @@ Then, run the script:
 Follow the steps for NPM init after all files have been created and you're ready
 to go!
 
+## Using on Windows
+
+As of 1.0.0, you can use [Git Bash](https://git-scm.com/downloads) for windows 2.11 and above to run this script
+like you would on any Linux or UNIX system
 
 ## Contributing
 
