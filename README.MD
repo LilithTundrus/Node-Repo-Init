@@ -1,5 +1,9 @@
 # Node Repo Init
 
+A small script to assist with creating a new Node.js
+repository. Basic, simple, to the point and **not** needlessly written in JS
+
+
 ## Usage
 
 Run this shell script like any other script.
