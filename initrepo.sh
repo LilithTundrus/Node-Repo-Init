@@ -20,9 +20,6 @@ printf "\nChecking for NPM...\n"
 command -v npm  2>&1 || { echo >&2 "I require NPM but it's not installed.  Aborting."; exit 1; }
 printf "${GREEN}NPM exists!${NC}\n"
 
-# For writing to README.MD
-currentDir=${PWD##*/}
-
 # Create our files (README, etc)
 printf "\n\nWriting Initial files..."
 touch README.MD
@@ -31,7 +28,7 @@ touch .gitignore
 touch index.js
 echo "node_modules" > .gitignore
 # Write PWD name to the README file by default 
-echo "# ${currentDir}" > README.MD
+echo "# ${PWD##*/}" > README.MD
 
 # Run our repo inits
 printf "\n\n"

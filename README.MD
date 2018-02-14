@@ -31,6 +31,3 @@ As of 1.0.0, you can use [Git Bash](https://git-scm.com/downloads) for Windows 2
 
 If you have suggestions or improvements, feel free to open a pull request and
 get the conversation started!
-
-
-
