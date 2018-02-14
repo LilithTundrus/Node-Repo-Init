@@ -33,6 +33,8 @@ echo "# ${PWD##*/}" > README.MD
 # Run our repo inits
 printf "\n\n"
 git init
+git checkout -b master
+git checkout master
 printf "\n\n"
 npm init
 
