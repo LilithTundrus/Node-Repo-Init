@@ -1,7 +1,7 @@
 # Node Repo Init
 
 A small script to assist with creating a new Node.js
-repository. Basic, simple, to the point and **not** needlessly written in JS
+repository. Simple, to the point and **not** needlessly written in JS
 
 
 ## Usage
@@ -25,8 +25,7 @@ to go!
 
 ## Using on Windows
 
-As of 1.0.0, you can use [Git Bash](https://git-scm.com/downloads) for windows 2.11 and above to run this script
-like you would on any Linux or UNIX system
+As of 1.0.0, you can use [Git Bash](https://git-scm.com/downloads) for Windows 2.11 and above to run this script like you would on any Linux or UNIX system
 
 ## Contributing
 
