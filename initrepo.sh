@@ -38,4 +38,4 @@ git checkout master
 printf "\n\n"
 npm init
 
-printf "\n\n${GREEN}Done!${NC}"
+printf "\n\n${GREEN}Done!${NC}\n"
